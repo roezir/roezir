@@ -1,7 +1,7 @@
 <p align="center"><em><strong>professional</strong> dumbass</em></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,neovim">
+  <img src="https://skillicons.dev/icons?i=java,vscode">
 </div>
 
 <br>
