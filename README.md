@@ -10,6 +10,9 @@
 
 <br>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=discord">
+</div>
 <p align="center">
-  <i align="center">wanna do a collab with me? the easiest way is on discord:</i> <span>roezir</span>
+  <span>roezir</span>
 </p>
