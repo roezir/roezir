@@ -1,7 +1,7 @@
 <p align="center"><em><strong>professional</strong> dumbass</em></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode">
+  <img src="https://skillicons.dev/icons?i=vscode,idea">
 </div>
 
 <br>
