@@ -4,6 +4,10 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea">
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ae,pr">
+</div>
+
 <br>
 
 <p align="center">
